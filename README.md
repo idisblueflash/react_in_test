@@ -1,6 +1,6 @@
-# React测试笔记
+# React In Test - React测试笔记
 
-《React测试笔记》介绍如何将单元测试应用到React上的工程方法。
+《React In Test》介绍如何为React工程做单元测试。
 
 笔记试图为新手铺平道路，让项目顺利应用单元测试。
 
