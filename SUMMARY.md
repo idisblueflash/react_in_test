@@ -1,10 +1,10 @@
 # Summary
 
-* [写在前面的话](#README)
-* [为什么要测试](#docs/why_we_need_test)
-   * [单元测试](#docs/about_unit_test)
-   * [测试驱动开发](#docs/about_tdd)
-* [搭建环境](#docs/settings)
+* [写在前面的话](README.md)
+* [为什么要测试](docs/why_we_need_test.md)
+   * [单元测试](docs/about_unit_test.md)
+   * [测试驱动开发](docs/about_tdd.md)
+* [搭建环境](docs/settings.md)
    * 环境要求
    * npm初始化
    * Karma配置
