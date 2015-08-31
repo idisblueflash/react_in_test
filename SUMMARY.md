@@ -5,10 +5,11 @@
    * [单元测试](docs/about_unit_test.md)
    * [测试驱动开发](docs/about_tdd.md)
 * [搭建环境](docs/settings.md)
-   * 环境要求
+   * [环境要求](docs/env_needs.md)
    * [npm初始化](docs/npm_init.md)
-   * Karma配置
-   * React支持
+   * 配置React
+   * 配置Karma
+   * 配置webpack
    * 简单测试
    * git初始化
    * [常见错误](docs/errors_and_solutions.md)   
