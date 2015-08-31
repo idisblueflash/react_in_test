@@ -1,6 +1,6 @@
 # npm初始化
 
-进入我们创建的目录myAppWithTest，运行npm初始化命令：
+进入目录myAppWithTest，运行npm初始化命令：
 
 ```
 cd myAppWithTest
