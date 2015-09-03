@@ -17,13 +17,8 @@
 	   * [Sorry, name can no longer contain capital letters.](docs/errors/error_messages.md)
 	   * [Sorry, name can only contain URL-friendly characters.](docs/errors/error_messages.md)
 * 测试React组件
-   * 让测试失败
-   * 简单方法让测试通过
-   * 优化测试
+* [测试React组件的method](docs/test_component_method.md)
 * 测试Ajax
-   * 让测试失败
-   * 简单方法让测试通过
-   * 优化测试
 
 * 参考
 
