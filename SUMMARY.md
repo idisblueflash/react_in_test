@@ -19,6 +19,7 @@
 * 测试React组件
 * [测试React组件的method](docs/test_component_method.md)
 * [测试Ajax](docs/test_ajax.md)
+* [测试input的value改变](docs/test_input_value.md)
 
 * 参考
 
