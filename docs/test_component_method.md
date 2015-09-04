@@ -6,6 +6,8 @@
 
 同时注意在renderIntoDocument之前进行stub，且引用TextInput.prototype.__reactAutoBindMap而不是TextInput。
 
+建议采用spy方式，stub会继续覆盖后续测试中的该method。
+
 ```javascript
 // Component
 let React = require('react');

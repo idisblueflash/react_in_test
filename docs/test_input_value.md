@@ -54,3 +54,5 @@ module.exports = TextInput;
 ### 参考
 
 https://developer.mozilla.org/en-US/docs/Web/Events/change
+
+http://stackoverflow.com/questions/24730019/simulating-text-entry-with-reactjs-testutils
